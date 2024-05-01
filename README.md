@@ -28,7 +28,7 @@ To play the game, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/pygame-platformer.git
+git clone https://github.com/2103323/DYnamics-game
 ```
 
 2. Navigate to the project directory:
